@@ -11,4 +11,6 @@
 
 ## 목차
 
+- [13.스코프](./13.%EC%8A%A4%EC%BD%94%ED%94%84.md)
 - [20.strict mode](./20.strict-mode.md)
+- [48.모듈](./48.%EB%AA%A8%EB%93%88.md)
