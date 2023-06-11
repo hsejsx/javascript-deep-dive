@@ -12,5 +12,6 @@
 ## 목차
 
 - [13.스코프](./13.%EC%8A%A4%EC%BD%94%ED%94%84.md)
+- [14.전역 변수의 문제점](./14.%EC%A0%84%EC%97%AD-%EB%B3%80%EC%88%98%EC%9D%98-%EB%AC%B8%EC%A0%9C%EC%A0%90.md)
 - [20.strict mode](./20.strict-mode.md)
 - [48.모듈](./48.%EB%AA%A8%EB%93%88.md)
