@@ -11,6 +11,7 @@
 
 ## 목차
 
+- [01.프로그래밍](./01.%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.md)
 - [13.스코프](./13.%EC%8A%A4%EC%BD%94%ED%94%84.md)
 - [14.전역 변수의 문제점](./14.%EC%A0%84%EC%97%AD-%EB%B3%80%EC%88%98%EC%9D%98-%EB%AC%B8%EC%A0%9C%EC%A0%90.md)
 - [20.strict mode](./20.strict-mode.md)
