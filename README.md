@@ -16,6 +16,7 @@
 - [03.자바스크립트 개발 환경과 실행 방법](./03.%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD%EA%B3%BC-%EC%8B%A4%ED%96%89-%EB%B0%A9%EB%B2%95.md)
 - [04.변수](./04.%EB%B3%80%EC%88%98.md)
 - [05.표현식과 문](./05.%ED%91%9C%ED%98%84%EC%8B%9D%EA%B3%BC-%EB%AC%B8.md)
+- [06.데이터 타입](./06.%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%83%80%EC%9E%85.md)
 - [13.스코프](./13.%EC%8A%A4%EC%BD%94%ED%94%84.md)
 - [14.전역 변수의 문제점](./14.%EC%A0%84%EC%97%AD-%EB%B3%80%EC%88%98%EC%9D%98-%EB%AC%B8%EC%A0%9C%EC%A0%90.md)
 - [20.strict mode](./20.strict-mode.md)
